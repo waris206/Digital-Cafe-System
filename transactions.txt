@@ -1,0 +1,276 @@
+		Item: boti
+		Quantity: 1
+		Total Price: 30
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 239
+
+		Item: noodles
+		Quantity: 1
+		Total Price: 100
+
+		Item: pizza
+		Quantity: 2
+		Total Price: 478
+
+		Item: chips
+		Quantity: 1
+		Total Price: 40
+
+		Item: roti
+		Quantity: 3
+		Total Price: 123
+
+		Item: chips
+		Quantity: 3
+		Total Price: 120
+
+		Item: roti
+		Quantity: 1
+		Total Price: 41
+
+		Item: juice
+		Quantity: 1
+		Total Price: 150
+
+		Item: chilli
+		Quantity: 1
+		Total Price: 100
+
+		Item: milk
+		Quantity: 1
+		Total Price: 10
+
+		Item: noodles
+		Quantity: 2
+		Total Price: 200
+
+		Item: juice
+		Quantity: 1
+		Total Price: 150
+
+		Item: boti
+		Quantity: 2
+		Total Price: 60
+
+		Item: roti
+		Quantity: 2
+		Total Price: 82
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: chips
+		Quantity: 1
+		Total Price: 40
+
+		Item: juice
+		Quantity: 1
+		Total Price: 120
+
+		Item: drink
+		Quantity: 1
+		Total Price: 100
+
+		Item: milk
+		Quantity: 1
+		Total Price: 60
+
+		Item: chips
+		Quantity: 2
+		Total Price: 80
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: pizza
+		Quantity: 2
+		Total Price: 300
+
+		Item: candy
+		Quantity: 1
+		Total Price: 1
+
+		Item: drink
+		Quantity: 2
+		Total Price: 42
+
+		Item: chicken
+		Quantity: 1
+		Total Price: 150
+
+		Item: milk
+		Quantity: 2
+		Total Price: 120
+
+		Item: bread
+		Quantity: 1
+		Total Price: 10
+
+		Item: pizza
+		Quantity: 3
+		Total Price: 450
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: juice
+		Quantity: 1
+		Total Price: 120
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: candy
+		Quantity: 5
+		Total Price: 5
+
+		Item: noodles
+		Quantity: 1
+		Total Price: 120
+
+		Item: juice
+		Quantity: 1
+		Total Price: 120
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: juice
+		Quantity: 1
+		Total Price: 120
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: drink
+		Quantity: 1
+		Total Price: 21
+
+		Item: chicken
+		Quantity: 4
+		Total Price: 600
+
+		Item: juice
+		Quantity: 2
+		Total Price: 240
+
+		Item: drink
+		Quantity: 1
+		Total Price: 21
+
+		Item: drink
+		Quantity: 1
+		Total Price: 21
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: milk
+		Quantity: 1
+		Total Price: 60
+
+		Item: juice
+		Quantity: 1
+		Total Price: 120
+
+		Item: candy
+		Quantity: 1
+		Total Price: 1
+
+		Item: juice
+		Quantity: 1
+		Total Price: 120
+
+		Item: milk
+		Quantity: 1
+		Total Price: 60
+
+		Item: bread
+		Quantity: 1
+		Total Price: 10
+
+		Item: roti
+		Quantity: 2
+		Total Price: 40
+
+		Item: noodles
+		Quantity: 2
+		Total Price: 240
+
+		Item: burger
+		Quantity: 3
+		Total Price: 540
+
+		Item: pizza
+		Quantity: 3
+		Total Price: 450
+
+		Item: pizza
+		Quantity: 1
+		Total Price: 150
+
+		Item: drink
+		Quantity: 1
+		Total Price: 21
+
+		Item: burger
+		Quantity: 1
+		Total Price: 180
+
+		Item: roti
+		Quantity: 1
+		Total Price: 20
+
+		Item: candy
+		Quantity: 2
+		Total Price: 2
+
+		Item: burger
+		Quantity: 1
+		Total Price: 180
+
+		Item: roti
+		Quantity: 4
+		Total Price: 80
+
+		Item: candy
+		Quantity: 1
+		Total Price: 1
+
+		Item: juice
+		Quantity: 2
+		Total Price: 240
+
+		Item: drink
+		Quantity: 1
+		Total Price: 21
+
+		Item: pizza
+		Quantity: 5
+		Total Price: 750
+
+		Item: pizza
+		Quantity: 2
+		Total Price: 300
+
